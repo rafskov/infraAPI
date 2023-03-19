@@ -7,7 +7,7 @@ An API that returns a score and detailed information around a US county's infras
 <img width="472" alt="Screenshot 2023-03-17 at 11 23 53 PM" src="https://user-images.githubusercontent.com/25858030/226089249-64570e08-3855-4aed-8f3b-5064c1d9caa4.png">
 
 
-I am not a professional developer. I have a vague recollection of sqlite and Flask. Most of my time between commits was researching sqilite command line commands and downloading DB Browser to ensure my databse was populated!
+I am not a professional developer. I have a vague recollection of sqllite and Flask. Most of my time between commits was researching sqllite command line commands and downloading DB Browser to ensure my databse was populated!
 
 <img width="1396" alt="Screenshot 2023-03-17 at 11 17 21 PM" src="https://user-images.githubusercontent.com/25858030/226088622-919743c0-8569-40dd-b6f9-e9ded3f16262.png">
 
